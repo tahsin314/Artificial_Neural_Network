@@ -98,7 +98,7 @@ Example:
     ~~~~
     If you restore model, you don't need to define `dense` layers. It will automatically
     load architecture from the model.
-## Example: 
-1.  __Train from scratch:__ See `train.py`
-2. __Predict using saved model:__ See `predict.py`
-3. __Re-train using saved model:__ See `re_train.py`
+## Examples: 
+1.  __Training from scratch:__ See `train.py`
+2. __Predicting using saved model:__ See `predict.py`
+3. __Re-training using saved model:__ See `re_train.py`
